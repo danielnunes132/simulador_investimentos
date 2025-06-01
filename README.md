@@ -1,6 +1,6 @@
 # Planilha de Simulação de Investimentos 📈📊
 
-![Banner da Planilha de Simulação de Investimentos](link/para/sua/imagem.jpg) ## Sobre o Projeto 🧐
+![Banner da Planilha de Simulação de Investimentos](https://github.com/danielnunes132/simulador_investimentos/blob/main/banner_investimentos_.png?raw=true) ## Sobre o Projeto 🧐
 
 Este projeto é uma planilha de simulação de investimentos personalizável, desenvolvida para auxiliar o planejamento financeiro pessoal. Ela permite simular investimentos com base no tempo desejado e se adapta ao perfil de cada investidor, oferecendo uma visão clara do potencial de crescimento do seu capital.
 
